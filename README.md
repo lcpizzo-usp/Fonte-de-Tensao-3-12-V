@@ -24,12 +24,12 @@ Total: R$39,00
 6. Resistor: o resistor de 200R é usado para reduzir a corrente que passa pelo diodo zener; o resistor de 1k5 é usado para oferecer um "valor mínimo" de 3V no circuito, sem ele, ao reduzir a resistência no potenciômetro a tensão na saída seria zero.
 ## Imagens
 ### Simulação do Circuito 
-(imagens/falstad.png)
+![falstad](https://raw.githubusercontent.com/lcpizzo-usp/Fonte-de-Tensao-3-12-V/imagens/falstad.png)
 Simulação feita pelo falstad: http://tinyurl.com/y85cx9n7
 ### Diagrama do Circuito 
-(/schematic.png)
+![schematic](https://raw.githubusercontent.com/lcpizzo-usp/Fonte-de-Tensao-3-12-V/imagens/schematic.png)
 ### PCB (Printed Circuit Board) 
-(/imagens/pcb.png)
+![pcb](https://raw.githubusercontent.com/lcpizzo-usp/Fonte-de-Tensao-3-12-V/imagens/pcb.png)
 
 ## Participantes
 
