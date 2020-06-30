@@ -9,7 +9,7 @@ Componente           | Especificações            | Quantidade          | Valor
 [Potenciômetro](https://www.baudaeletronica.com.br/potenciometro-linear-de-10k-10000.html) | 10k | 1 | R$1,54
 [Capacitor](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-16v.html)     | 470μF | 1 |   R$0,43
 [Diodo](https://www.baudaeletronica.com.br/diodo-zener-zmm-22v-0-5w.html)         | 22V / 0,5W | 4 |   R$0,15
-[Diodo Zener](https://www.baudaeletronica.com.br/diodo-zener-bzx55c-36v-0-5w.html)  | 13V / 0,5W | 1 | 0,09
+[Diodo Zener](https://www.baudaeletronica.com.br/diodo-zener-bzx55c-36v-0-5w.html)  | 13V / 0,5W | 1 | R$0,09
 [Transistor](https://www.baudaeletronica.com.br/transistor-npn-2n3904.html)    | 2N3904 | 1 |   R$0,18 
 [Transformador](https://www.baudaeletronica.com.br/transformador-trafo-1a-24v.html) | 12V / 0,5mA | 1 |   R$36,00
 
