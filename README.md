@@ -23,12 +23,13 @@ Total: R$39,00
 5. Pontenciômetro: O potenciômetro é usado para ajustar a tensão de saída do circuito;
 6. Resistor: o resistor de 200R é usado para reduzir a corrente que passa pelo diodo zener; o resistor de 1k5 é usado para oferecer um "valor mínimo" de 3V no circuito, sem ele, ao reduzir a resistência no potenciômetro a tensão na saída seria zero.
 ## Imagens
-### Simulação do Circuito
+### Simulação do Circuito 
+(imagens/falstad.png)
 Simulação feita pelo falstad: http://tinyurl.com/y85cx9n7
-### Diagrama do Circuito
-
-### PCB (Printed Circuit Board)
-
+### Diagrama do Circuito 
+(/schematic.png)
+### PCB (Printed Circuit Board) 
+(/imagens/pcb.png)
 
 ## Participantes
 
