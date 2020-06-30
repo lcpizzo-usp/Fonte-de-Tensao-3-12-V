@@ -21,7 +21,7 @@ Total: R$39,00
 3. Capacitor: O capacitor é usado para fornecer energia ao circuito em momentos em que a corrente tende a zero;
 4. Diodo Zener: O diodo zener é usado para regular a tensão que passa pela saída do circuito;
 5. Pontenciômetro: O potenciômetro é usado para ajustar a tensão de saída do circuito;
-6. Resistor: o resistor de 200R é usado para reduzir a corrente que passa pelo diodo zener; o resistor de 1k5 é usado para oferecer um "valor mínimo" de 3V no circuito, sem ele, ao reduzir a resistência no potenciômetro 
+6. Resistor: o resistor de 200R é usado para reduzir a corrente que passa pelo diodo zener; o resistor de 1k5 é usado para oferecer um "valor mínimo" de 3V no circuito, sem ele, ao reduzir a resistência no potenciômetro a tensão na saída seria zero.
 ## Imagens
 ### Simulação do Circuito
 Simulação feita pelo falstad: http://tinyurl.com/y85cx9n7
