@@ -4,8 +4,8 @@ Fonte de tensão ajustável desenvolvida para a disciplina [SSC0180 - Eletrônic
 ## Lista de Componentes
 Componente           | Especificações            | Quantidade          | Valor (un.)        
 :--------------------|:--------------------------|:--------------------|:-------------
-[Resistor](https://www.baudaeletronica.com.br/resistor-2k2-5-1-4w.htmll)      | 2k2Ω | 2 |   R$0,08
-[Resistor](https://www.baudaeletronica.com.br/resistor-5k6-5-1-4w.html)      | 5k6Ω | 2 |   R$0,08
+[Resistor](https://www.baudaeletronica.com.br/resistor-2k2-5-1-4w.htmll)      | 2k2Ω | 1 |   R$0,08
+[Resistor](https://www.baudaeletronica.com.br/resistor-5k6-5-1-4w.html)      | 5k6Ω | 1 |   R$0,08
 [Potenciômetro](https://www.baudaeletronica.com.br/potenciometro-linear-de-10k-10000.html) | 10k | 1 | R$1,54
 [Capacitor](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-25v.html)     | 25V / 470μF | 1 |   R$0,33
 [Diodo](https://www.baudaeletronica.com.br/diodo-zener-zmm-22v-0-5w.html)         | 22V / 0,5W | 4 |   R$0,15
