@@ -27,12 +27,12 @@ Total: R$39,00
 
 ## Imagens
 ### Simulação do Circuito 
-![falstad](https://raw.githubusercontent.com/lcpizzo-usp/Fonte-de-Tensao-3-12-V/falstad.png)
+![falstad](https://raw.githubusercontent.com/lcpizzo-usp/Fonte-de-Tensao-3-12-V/master/falstad.png)
 Simulação feita pelo falstad: http://tinyurl.com/ybdbznz2
 ### Diagrama do Circuito 
-![schematic](https://raw.githubusercontent.com/lcpizzo-usp/Fonte-de-Tensao-3-12-V/schematic.png)
+![schematic](https://raw.githubusercontent.com/lcpizzo-usp/Fonte-de-Tensao-3-12-V/master/schematic.png)
 ### PCB (Printed Circuit Board) 
-![pcb](https://raw.githubusercontent.com/lcpizzo-usp/Fonte-de-Tensao-3-12-V/pcb.png)
+![pcb](https://raw.githubusercontent.com/lcpizzo-usp/Fonte-de-Tensao-3-12-V/master/pcb.png)
 
 ## Participantes
 
