@@ -23,7 +23,8 @@ Total: R$39,00
 5. Pontenciômetro: O potenciômetro é usado para ajustar a tensão de saída do circuito;
 6. Resistor: o resistor de 2k2 é usado para reduzir a corrente que passa pelo diodo zener, e para impedir um curto circuito se a tensão for menor que 13V  e o outro é usado para oferecer um "valor mínimo" de 3V no circuito, sem ele, ao reduzir a resistência no potenciômetro a tensão na saída seria zero;
 7. Transistor: é um multiplicador de corrente no circuito.
-#### Vídeo Explicativo
+#### Vídeo
+https://youtu.be/aY4b_8o9HOc
 
 ## Imagens
 ### Simulação do Circuito 
