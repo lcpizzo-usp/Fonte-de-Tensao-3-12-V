@@ -13778,11 +13778,11 @@ diameter 2.54 mm, horizontal, grid 10.16 mm</description>
 <instance part="X1" gate="-2" x="-10.16" y="86.36" smashed="yes" rot="R180">
 <attribute name="NAME" x="-12.7" y="87.122" size="1.524" layer="95" rot="R180"/>
 </instance>
-<instance part="X2" gate="-1" x="129.54" y="101.6" smashed="yes">
-<attribute name="NAME" x="132.08" y="100.838" size="1.524" layer="95"/>
+<instance part="X2" gate="-1" x="116.84" y="81.28" smashed="yes">
+<attribute name="NAME" x="119.38" y="80.518" size="1.524" layer="95"/>
 </instance>
-<instance part="X2" gate="-2" x="129.54" y="99.06" smashed="yes">
-<attribute name="NAME" x="132.08" y="98.298" size="1.524" layer="95"/>
+<instance part="X2" gate="-2" x="116.84" y="83.82" smashed="yes">
+<attribute name="NAME" x="119.38" y="83.058" size="1.524" layer="95"/>
 </instance>
 <instance part="B1" gate="1" x="20.32" y="88.9" smashed="yes">
 <attribute name="NAME" x="22.86" y="91.44" size="1.778" layer="95"/>
@@ -13842,6 +13842,11 @@ diameter 2.54 mm, horizontal, grid 10.16 mm</description>
 <wire x1="68.58" y1="76.2" x2="68.58" y2="68.58" width="0.1524" layer="91"/>
 <junction x="68.58" y="68.58"/>
 <pinref part="R1" gate="G$1" pin="2"/>
+<pinref part="X2" gate="-1" pin="S"/>
+<wire x1="114.3" y1="81.28" x2="106.68" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="81.28" x2="106.68" y2="68.58" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="68.58" x2="81.28" y2="68.58" width="0.1524" layer="91"/>
+<junction x="81.28" y="68.58"/>
 </segment>
 </net>
 <net name="N$6" class="0">
@@ -13854,6 +13859,10 @@ diameter 2.54 mm, horizontal, grid 10.16 mm</description>
 <wire x1="25.4" y1="101.6" x2="35.56" y2="101.6" width="0.1524" layer="91"/>
 <junction x="35.56" y="101.6"/>
 <pinref part="R4" gate="G$1" pin="1"/>
+<junction x="68.58" y="101.6"/>
+<wire x1="68.58" y1="101.6" x2="106.68" y2="101.6" width="0.1524" layer="91"/>
+<pinref part="T1" gate="G1" pin="C"/>
+<wire x1="106.68" y1="101.6" x2="106.68" y2="93.98" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$7" class="0">
@@ -13891,20 +13900,11 @@ diameter 2.54 mm, horizontal, grid 10.16 mm</description>
 <wire x1="86.36" y1="88.9" x2="101.6" y2="88.9" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$8" class="0">
-<segment>
-<pinref part="T1" gate="G1" pin="C"/>
-<pinref part="X2" gate="-1" pin="S"/>
-<wire x1="106.68" y1="93.98" x2="106.68" y2="101.6" width="0.1524" layer="91"/>
-<wire x1="106.68" y1="101.6" x2="127" y2="101.6" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="N$9" class="0">
 <segment>
 <pinref part="T1" gate="G1" pin="E"/>
-<wire x1="106.68" y1="83.82" x2="127" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="83.82" x2="114.3" y2="83.82" width="0.1524" layer="91"/>
 <pinref part="X2" gate="-2" pin="S"/>
-<wire x1="127" y1="83.82" x2="127" y2="99.06" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
