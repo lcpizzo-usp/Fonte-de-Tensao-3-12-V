@@ -11,7 +11,7 @@ Componente           | Especificações            | Quantidade          | Valor
 [Diodo](https://www.baudaeletronica.com.br/diodo-zener-zmm-22v-0-5w.html)         | 22V / 0,5W | 4 |   R$0,15
 [Diodo Zener](https://www.baudaeletronica.com.br/diodo-zener-zmm-13v-0-5w.html)  | 13V / 0,5W | 1 | R$0,09
 [Transistor](https://www.baudaeletronica.com.br/transistor-npn-2n3904.html)    | 2N3904 | 1 |   R$0,18 
-[Transformador](https://www.baudaeletronica.com.br/transformador-trafo-1a-24v.html) | 24V / 0,5mA | 1 |   R$36,00
+[Transformador](https://www.baudaeletronica.com.br/transformador-trafo-1a-24v.html) | 24V / 1mA | 1 |   R$36,00
 
 Total: R$39,00
 
