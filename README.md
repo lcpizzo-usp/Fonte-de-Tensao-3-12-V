@@ -4,12 +4,12 @@ Fonte de tensão ajustável desenvolvida para a disciplina [SSC0180 - Eletrônic
 ## Lista de Componentes
 Componente           | Especificações            | Quantidade          | Valor (un.)        
 :--------------------|:--------------------------|:--------------------|:-------------
-[Resistor](https://www.baudaeletronica.com.br/resistor-200r-5-1-4w.html)      | 200RΩ | 1 |   R$0,08
-[Resistor](https://www.baudaeletronica.com.br/resistor-2k-5-1-4w.html)      | 2k Ω | 1 |   R$0,08
+[Resistor](https://www.baudaeletronica.com.br/resistor-2k2-5-1-4w.htmll)      | 200RΩ | 2 |   R$0,08
+[Resistor](https://www.baudaeletronica.com.br/resistor-5k6-5-1-4w.html)      | 200RΩ | 2 |   R$0,08
 [Potenciômetro](https://www.baudaeletronica.com.br/potenciometro-linear-de-10k-10000.html) | 10k | 1 | R$1,54
-[Capacitor](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-16v.html)     | 470μF | 1 |   R$0,43
+[Capacitor](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-25v.html)     | 25V / 470μF | 1 |   R$0,33
 [Diodo](https://www.baudaeletronica.com.br/diodo-zener-zmm-22v-0-5w.html)         | 22V / 0,5W | 4 |   R$0,15
-[Diodo Zener](https://www.baudaeletronica.com.br/diodo-zener-bzx55c-36v-0-5w.html)  | 13V / 0,5W | 1 | R$0,09
+[Diodo Zener](https://www.baudaeletronica.com.br/diodo-zener-zmm-13v-0-5w.html)  | 13V / 0,5W | 1 | R$0,09
 [Transistor](https://www.baudaeletronica.com.br/transistor-npn-2n3904.html)    | 2N3904 | 1 |   R$0,18 
 [Transformador](https://www.baudaeletronica.com.br/transformador-trafo-1a-24v.html) | 12V / 0,5mA | 1 |   R$36,00
 
@@ -21,15 +21,18 @@ Total: R$39,00
 3. Capacitor: O capacitor é usado para fornecer energia ao circuito em momentos em que a corrente tende a zero;
 4. Diodo Zener: O diodo zener é usado para regular a tensão que passa pela saída do circuito;
 5. Pontenciômetro: O potenciômetro é usado para ajustar a tensão de saída do circuito;
-6. Resistor: o resistor de 200R é usado para reduzir a corrente que passa pelo diodo zener; o resistor de 1k5 é usado para oferecer um "valor mínimo" de 3V no circuito, sem ele, ao reduzir a resistência no potenciômetro a tensão na saída seria zero.
+6. Resistor: o resistor de 2k2 é usado para reduzir a corrente que passa pelo diodo zener, e para impedir um curto circuito se a tensão for menor que 13V  e o outro é usado para oferecer um "valor mínimo" de 3V no circuito, sem ele, ao reduzir a resistência no potenciômetro a tensão na saída seria zero;
+7. Transistor: é um multiplicador de corrente no circuito.
+#### Vídeo Explicativo
+
 ## Imagens
 ### Simulação do Circuito 
-![falstad](https://raw.githubusercontent.com/lcpizzo-usp/Fonte-de-Tensao-3-12-V/imagens/falstad.png)
-Simulação feita pelo falstad: http://tinyurl.com/y85cx9n7
+![falstad](https://raw.githubusercontent.com/lcpizzo-usp/Fonte-de-Tensao-3-12-V/falstad.png)
+Simulação feita pelo falstad: http://tinyurl.com/ybdbznz2
 ### Diagrama do Circuito 
-![schematic](https://raw.githubusercontent.com/lcpizzo-usp/Fonte-de-Tensao-3-12-V/imagens/schematic.png)
+![schematic](https://raw.githubusercontent.com/lcpizzo-usp/Fonte-de-Tensao-3-12-V/schematic.png)
 ### PCB (Printed Circuit Board) 
-![pcb](https://raw.githubusercontent.com/lcpizzo-usp/Fonte-de-Tensao-3-12-V/imagens/pcb.png)
+![pcb](https://raw.githubusercontent.com/lcpizzo-usp/Fonte-de-Tensao-3-12-V/pcb.png)
 
 ## Participantes
 
