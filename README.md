@@ -29,7 +29,7 @@ https://youtu.be/aY4b_8o9HOc
 ## Imagens
 ### Simulação do Circuito 
 ![falstad](https://raw.githubusercontent.com/lcpizzo-usp/Fonte-de-Tensao-3-12-V/master/falstad.png)
-Simulação feita pelo falstad: http://tinyurl.com/y9dtnvmy
+Simulação feita pelo falstad: http://tinyurl.com/y7m4rmxe
 ### Diagrama do Circuito (Esquemático)
 ![schematic](https://raw.githubusercontent.com/lcpizzo-usp/Fonte-de-Tensao-3-12-V/master/schematic.png)
 ### PCB (Printed Circuit Board) 
